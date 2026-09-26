@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لقطة</string>
+    <string name="acc_desc">بتسمح لتطبيق لقطة إنه يطلب سكرين شوت النظام الأصلي لما تهز الموبايل. التطبيق مش بيقرا أي محتوى من الشاشة.</string>
+</resources>
